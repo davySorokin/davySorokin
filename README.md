@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
 </a>
