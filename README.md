@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.linkedin.com/in/kirill-sorokin-802266190/)" width="100"/>
+</div>
 <!--
 **davySorokin/davySorokin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
